@@ -9,7 +9,6 @@ application = Flask(__name__)
 
 app = application
 
-
 ## Route for home page 
 
 @app.route('/')
